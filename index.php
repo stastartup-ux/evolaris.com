@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EVOLARIS — Full-stack и AI-разработка</title>
     <meta name="description" content="EVOLARIS — IT-студия полного цикла. Веб-приложения, AI и RAG-системы, CRM, e-commerce, мобильные приложения. От идеи до продакшена силами одной команды.">
-    <link rel="icon" href="assets/logo.webp" type="image/webp">
+    <link rel="icon" href="images/image.png" type="image/webp">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Unbounded:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -29,7 +29,7 @@
     <header class="header">
         <div class="container">
             <a class="brand" href="#top" aria-label="EVOLARIS — на главную">
-                <img class="brand__mark" src="assets/logo.webp" alt="" width="38" height="38">
+                <img class="brand__mark" src="images/image.png" alt="" width="38" height="38">
                 <span class="brand__name">EVOLARIS</span>
             </a>
             <nav class="nav" aria-label="Основная навигация">
@@ -69,7 +69,7 @@
                 </div>
                 <div class="stackviz" data-reveal aria-hidden="true">
                     <div class="stackviz__logo">
-                        <img src="assets/logo.webp" alt="">
+                        <img src="images/image.png" alt="">
                     </div>
                     <div class="stackviz__body">
                         <div class="stackviz__spine"></div>
@@ -390,7 +390,7 @@
     <footer class="footer">
         <div class="container">
             <div class="footer__brand">
-                <img src="assets/logo.webp" alt="" width="26" height="26">
+                <img src="images/image.png" alt="" width="26" height="26">
                 <span>EVOLARIS</span>
             </div>
             <p class="footer__meta">© <span id="year">2026</span> EVOLARIS. Full-stack &amp; AI-разработка.</p>
